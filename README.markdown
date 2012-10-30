@@ -14,7 +14,7 @@ Input should be plain text. I am not responsible for what my regular expressions
 
 ## Samples
 
-If you don't have a political speech handy, Nurble Nurble will spit out a handy sample speech for you. In case you can't even be bothered to go that far (or you don't know how to use Ruby), here's an example.
+If you don't have a political speech handy, Nurble Nurble will spit out a handy sample speech for you. In case you can't even be bothered to go that far (or you don't know how to use Ruby), here's an example from Barry Goldwater's 1964 speech at the 28th Republican National Convention
 
 ### Original
 
