@@ -6,9 +6,9 @@ This is a Ruby implementation of the idea in [this edition of Saturday Morning B
 
 # Usage
 
-'''
+```
 ruby nurble_nurble.rb <input file>
-'''
+```
 
 Input should be plain text. I am not responsible for what my regular expressions do to you if you feed them anything else...
 
